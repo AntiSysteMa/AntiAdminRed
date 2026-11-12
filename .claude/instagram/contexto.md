@@ -8,7 +8,7 @@ desconocido: se pregunta, no se supone.
 | Cuenta | Qué es | Reglas que aplican |
 |---|---|---|
 | `mag.industries` (Instagram de empresa) | Marca de la consultoría | Skill `mag-linkedin` completa: tono profesional de tú, nada inventado, ningún software CAD/CAM nombrado, una línea de servicio por pieza |
-| `@mag_makers` (personal) | Alex como creador de divulgación | Mismas reglas de veracidad y de no nombrar software CAD/CAM. Tono y temas más abiertos (pendiente de definir con su voz real) |
+| `@mag_makers` (personal, cuenta profesional desde nov-2026) | Alex como creador de divulgación | Mismas reglas de veracidad y de no nombrar software CAD/CAM. Tono y temas más abiertos (pendiente de definir con su voz real) |
 
 Los reels se publicarán en las dos cuentas.
 
